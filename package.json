@@ -1,0 +1,16 @@
+{
+  "name": "07_07_sw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "re:run" : "npx cypress run --record --key=3dceef24-3b8a-44ce-9fc8-8aae68c31607"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
